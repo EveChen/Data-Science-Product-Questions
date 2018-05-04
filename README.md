@@ -1,4 +1,4 @@
 # Data-Science-Product-Questions
-### Goal: Write my own answers to the product questions, to be well-prepared for the interviews
-### Resource: Product Question EBook, https://datamasked.com/
-### Notes: To protect auther's right, I would only write down my own answers instead of disclosing all contents from this book. 
+Goal: Write my own answers to the product questions, to be well-prepared for the interviews
+Resource: Product Question EBook https://datamasked.com/
+Notes: To protect auther's right, I would only write down my own answers instead of disclosing all contents from this book. 
