@@ -1,7 +1,7 @@
 # SQL
 ### Question & Answer: Find the average cost of each advertisements given the following two tables
 http://tpcg.io/7wzqGi
-就我的理解，此題目中有兩個 Tables:
+#### 就我的理解，此題目中有兩個 Tables:
 * Advertisement_Info: 裡面有九家公司委託 FB 幫忙刊登廣告，其中有三款廣告形式，spend 代表該公司刊登其中一款廣告的總支出費用
 * ad_info: 記載了哪些使用者點擊該款廣告，price 則代表使用者願意為該產品所支付的價格
 * 例如: A01 公司採用 001 號廣告，總共支付了 $200；而 001 號廣告有 B01 和 B04 兩位使用者點擊，最後他們分別支付 $500 跟 $800 產品費用
@@ -15,6 +15,6 @@ http://tpcg.io/7wzqGi
   - Code2: 
 
 
-# Credit to: http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=235689&extra=page%3D1%26filter%3Dsortid%26sortid%3D311&page=1
+##### Credit to: http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=235689&extra=page%3D1%26filter%3Dsortid%26sortid%3D311&page=1
 
-本紀錄僅為個人練習使用
+##### 本紀錄僅為個人練習使用
