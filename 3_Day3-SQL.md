@@ -12,6 +12,10 @@ Code: Select Count(sports_category)
       From table1
       Where sports_category == "NFL";
       
-# 弱點
+# 檢討
 1. Q1 跟 Q2 SUM 跟 COUNT 實際運用
 2. Q2 中如果 NFL 無法完全 == sports_category 字串? 例如 "ABC NFL"? 要怎麼用 Where 去包含?
+
+
+##### Credit to
+http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=423523&extra=page%3D1%26filter%3Dsortid%26sortid%3D311%26sortid%3D311
