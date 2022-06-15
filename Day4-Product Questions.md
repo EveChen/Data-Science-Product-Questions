@@ -29,7 +29,14 @@
 ### Q6: 如果同時發佈，問多少user從paid APP flow 到free app才break even， 這個計算的假設是什麼?
 #### My Answer: I have no idea 
 ##### --> 查查看 break even point = 固定總成本 / (單位產品價格 - 單位變動成本)。
-Is this question about free-to-paid conversion?
+
+#### Question from Christine on Jun 14, 2022: Is this question about free-to-paid conversion?
+1. Given it's a question from 1point3acres, it's a bit vague lol. Therefore, we cannot identify whether that's a question about free-to-paid conversion. 
+2. My current thoughts are:
+    * This question focus on "how many users", which indicates us to do a user growth projection. Thus, estimating how many users will convert from free to pay will be a good approach.
+    * Also, because it's a "product question", I will elaborate some metrics that we usually use to track user accquisition, user retention, user lapsed, etc.
+
+
 
 ###### Credit to:
 http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=419357&pid=3894889&page=1&extra=page%3D1%26filter%3Dsortid%26sortid%3D311#pid3894889
