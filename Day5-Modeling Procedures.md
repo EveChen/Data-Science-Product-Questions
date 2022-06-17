@@ -22,4 +22,4 @@
 
 ### Step5: Apply the model to the test set after we build up the model
 * See the performance (usually is lower than the performance in Step4. Otherwise, it may be overfitting if the AUC in test set is greater than the AUC in the train set)
-* Interpretation of the final results e.g. confidence interval, coefficient, R-squared, p-value
+* Interpretation of the final results e.g. confidence interval, coefficient, R-squared and adjusted R-squared, p-value
