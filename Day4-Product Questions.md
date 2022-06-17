@@ -3,16 +3,18 @@
 ### Q1: Issue 一個 life insurance product 時需要考慮什麼因素?
 #### My Answer: 
 * Company Perspective: How much? What's the premium (保費)? Compare with other competitors/products
-* Customer Perspective: How to promote? (Marketing) What's the customer base/size/target? 
+* Customer Perspective: How to promote? (Marketing) What's the customer base/size/target? Individual policy vs group policy?
 * 補充: death rate, term, operation cost, payment schedule, cash lump sum (die before/after)
-* 專業術語: mortality rate (越高代表壽命越短，保險公司能夠投資的時間相對較短、return較低), morbidity rate(越高代表此人越容易生病、死亡)
+* 專業術語: mortality rate (越高代表壽命越短，保險公司能夠投資的時間相對較短、return較低), morbidity rate(越高代表此人越容易生病、死亡), medical screening questionnaire (some serious health conditions would result in disqualification)
 
 ### Q2: 如果硬要issue給高death rate 的人，你有啥建議to make profit?
-#### My Answer: Increase the insurance premiums, comparative low cash lump sum
+#### My Answer: 
+* Company Perspective: Increase the insurance premiums, comparative low cash lump sum 
+* Customer Perspective: Encourage these people to build healthy habits to reduce their morbidity rate. For example, charge a higher premium for smokers than for non-smokers. If someone quit smoking and has not smoked in several years, he/she can qualify for the lower premium as a non-smoker.
 
 ### Q3: 什麼因素衡量app是否值得發佈?
 #### My Answer: 
-* Profit Perspective: If our business model is to earn profits, then we need to take the revenue & cost into consideration. That is, if the profits are positive, then we will have a higher possibility to issue this app.
+* Profit Perspective: If our business model is to earn profits from the app itself, then we need to take the revenue & cost into consideration. That is, if the profits are positive, then we will be more likely to issue this app.
 * Promotion Perspective: If the reason why we issue this app is to promote our other products, then we care about if the app can reach to our target customers. 
 
 
@@ -27,6 +29,13 @@
 ### Q6: 如果同時發佈，問多少user從paid APP flow 到free app才break even， 這個計算的假設是什麼?
 #### My Answer: I have no idea 
 ##### --> 查查看 break even point = 固定總成本 / (單位產品價格 - 單位變動成本)。
+
+#### Question from Christine on Jun 14, 2022: Is this question about free-to-paid conversion?
+1. Given it's a question from 1point3acres, it's a bit vague lol. Therefore, we cannot identify whether that's a question about free-to-paid conversion. 
+2. My current thoughts are:
+    * This question focus on "how many users", which indicates us to do a user growth projection. Thus, estimating how many users will convert from free to pay will be a good approach.
+    * Also, because it's a "product question", I will elaborate some metrics that we usually use to track user accquisition, user retention, user lapsed, etc.
+
 
 
 ###### Credit to:
